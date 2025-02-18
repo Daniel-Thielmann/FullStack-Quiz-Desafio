@@ -105,24 +105,4 @@ Abra o navegador e acesse:
 | alternativas     | TEXT    | Alternativas da pergunta (em JSON).   |
 | resposta_correta | INTEGER | Índice da alternativa correta.        |
 
-## Capturas de Tela
-
-### Tela Inicial
-
-![Tela Inicial](https://ibb.co/p2t26K9)
-
-### Tela do Quiz
-
-![Tela do Quiz](https://ibb.co/PjQMYQL)
-
-### Resultados do Quiz
-
-![Resultados](https://ibb.co/9NRKzxp)
-
-### Banco de Dados
-
-![Banco de Dados](https://ibb.co/sbzxMV2)
-
----
-
 Feito com muito esforço por Daniel Thielmann.
